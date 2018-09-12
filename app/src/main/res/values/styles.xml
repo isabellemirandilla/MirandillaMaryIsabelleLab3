@@ -1,0 +1,86 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+    a
+    <style name="text_view">
+        <item name="android:text">Styles and Material Design</item>
+        <item name="android:fontFamily">monospace</item>
+        <item name="android:textSize">24sp</item>
+        <item name="android:background">#9ea7c6</item>
+        <item name="android:gravity">center</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+    </style>
+
+    <style name="image_view">
+        <item name="android:background">#cfcfc4</item>
+        <item name="android:layout_width">425dp</item>
+        <item name="android:layout_height">300dp</item>
+        <item name="android:layout_marginTop">32dp</item>
+    </style>
+
+    <style name="text_view2">
+        <item name="android:text">Casa Manila</item>
+        <item name="android:fontFamily">cursive</item>
+        <item name="android:gravity">center</item>
+        <item name="android:textSize">34sp</item>
+        <item name="android:textColor">#100c08</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_marginBottom">13dp</item>
+    </style>
+
+    <style name="text_view3">
+        <item name="android:text">Location: General Luna St. Intramuros, Manila, Luzon Philippines</item>
+        <item name="android:fontFamily">serif</item>
+        <item name="android:textSize">24sp</item>
+        <item name="android:gravity">center</item>
+        <item name="android:textColor">#100c08</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_marginBottom">122dp</item>
+    </style>
+
+    <style name="text_view4">
+        <item name="android:text">Distance from UST: 3.7 km</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:fontFamily">serif</item>
+        <item name="android:textSize">24sp</item>
+        <item name="android:gravity">center</item>
+        <item name="android:textColor">#100c08</item>
+        <item name="android:layout_marginBottom">12dp</item>
+        <item name="android:layout_marginTop">6dp</item>
+    </style>
+
+    <style name="button1">
+        <item name="android:text">Previous</item>
+        <item name="android:fontFamily">sans-serif-condensed</item>
+        <item name="android:textSize">14sp</item>
+        <item name="android:background">#9ebbc6</item>
+        <item name="android:textColor">#100c08</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_marginBottom">17dp</item>
+        <item name="android:layout_marginStart">93dp</item>
+    </style>
+
+    <style name="button2">
+        <item name="android:text">Next</item>
+        <item name="android:fontFamily">sans-serif-condensed</item>
+        <item name="android:textSize">14sp</item>
+        <item name="android:background">#9ebbc6</item>
+        <item name="android:textColor">#100c08</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_marginBottom">16dp</item>
+        <item name="android:layout_marginEnd">96dp</item>
+    </style>
+
+</resources>
